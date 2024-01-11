@@ -1,0 +1,13 @@
+---
+title: "FestinStory.github.io/website"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Also refer to <https://jfrench.github.io/demosite>.
+
+
+```{r}
+1 + 1
+```
